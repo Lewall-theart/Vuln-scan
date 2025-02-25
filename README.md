@@ -1,5 +1,5 @@
 ## NOTES ![Min 3 GB free space needed!](https://img.shields.io/badge/-Min%203%20GB%20free%20space%20needed!-darkred?style=flat-square)
-Introducing my project: a vulnerability scanner and information gathering tool designed for beginners! This tool is built to run on Kali,Parrot Linux and is perfect for those who are just starting out in the world of cybersecurity. With this tool, you can quickly and easily scan your system for vulnerabilities and gather information about potential targets.
+Introducing my project: a vulnerability scanner and information gathering tool. This tool is built to run on Kali,Parrot Linux and is perfect for those who are just starting out in the world of cybersecurity. With this tool, you can quickly and easily scan your system for vulnerabilities and gather information about potential targets.
 
 The tool is designed to be easy to use and requires no prior knowledge of cybersecurity or terminal usage. It features a user-friendly interface and provides step-by-step instructions to guide you through the scanning process. Whether you're looking to secure your own system or want to learn more about cybersecurity, this tool is a great place to start.
 
